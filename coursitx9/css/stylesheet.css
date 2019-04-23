@@ -1,0 +1,12 @@
+.ej1 p:first-of-type {
+    color: blue;
+}
+
+.ej1 p:last-of-type {
+    color: green;
+}
+
+.ej1 p {
+    color: red;
+}
+

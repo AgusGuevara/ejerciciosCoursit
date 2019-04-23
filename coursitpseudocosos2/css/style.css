@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.ej2-main{
+    background-color: grey;
+    width: 90%;
+    height: 150px;
+}
+
+.container{
+    background-color: green;
+    display: inline-block;
+    width: 31%;
+    height: 100%;
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+
+.container:first-of-type{
+    margin-left: 0px; 
+}
+
+.container:last-of-type{
+    margin-right: 0px; 
+}
